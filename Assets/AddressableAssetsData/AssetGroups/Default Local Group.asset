@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0773a1da87c4ec248918e0ad5ae5b3de
+  m_SerializeEntries:
+  - m_GUID: 2b180f05c968afb4aa12ac4ae7884f7f
+    m_Address: StaticData/Levels
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LevelData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3faa267344191824887440b5390576b8
+    m_Address: StaticData/Shapes
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - ShapeData
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02b5fa31ca1c3b24f860a6c02c2dd5f9
+    m_Address: ShapeSpawner
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5ff5163fe0b9494b988fedb7fb74106
+    m_Address: Shape
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18be5812a4bde80449e969aa1507d61f
+    m_Address: Basket
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0c75a689e60ce144898d6edeb730010a
+    m_Address: Hud
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f457123804a524140a9f1fea3c8bf5bb
+    m_Address: PopupMessage
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21a6fb565df44c947b2facee57edad91
+    m_Address: UIRoot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 348ddd3944d58484d8aeaf77629fd29f
+    m_Address: TimesUpPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad6832029a861d94781960f39dd17ee3
+    m_Address: MainMenu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8a2fcc46a911404caaca558ce78b02a
+    m_Address: StaticData/Difficulties
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - DifficultyData
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3cdc7119ea6a7c0478bf0cfcfd868e5d, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 511623733efa03742abf4fd158a1ca8b, type: 2}
+    - {fileID: 11400000, guid: f3ab5ae0754dfd64a82f75b97d44590e, type: 2}
